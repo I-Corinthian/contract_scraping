@@ -1,2 +1,2 @@
 # contract_scraping
-code to get a block range and find all the smart contract in the block rage and find the total gas comsumed by the smart contract 
+code to find all the smart contracts in the block range and find the total gas consumed by the smart contract 
